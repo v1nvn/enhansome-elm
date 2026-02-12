@@ -4,7 +4,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,590 | 🐛 68 | 📅 2026-01-28 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 436,832 | 🐛 67 | 📅 2026-01-28 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
 
 A community driven list of useful Elm tutorials, libraries and software.
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
@@ -44,7 +44,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Learn what this awesome thing is.*
 
-* [Codings hints](https://github.com/elm/compiler/tree/master/hints) ⭐ 7,748 | 🐛 337 | 🌐 Haskell | 📅 2025-12-11 - A list of README files by Evan.
+* [Codings hints](https://github.com/elm/compiler/tree/master/hints) ⭐ 7,749 | 🐛 337 | 🌐 Haskell | 📅 2025-12-11 - A list of README files by Evan.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) ⭐ 4,183 | 🐛 10 | 🌐 Elm | 📅 2019-12-30 - How to create modular Elm code that scales nicely with your app.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) ⭐ 951 | 🐛 2 | 🌐 Elm | 📅 2018-04-27 - Syntax and features overview.
 * [Learn Elm](https://github.com/dwyl/learn-elm) ⭐ 492 | 🐛 98 | 🌐 HTML | 📅 2025-01-06 - Discover the beautiful programming language that makes front-end web apps a joy to build and maintain!
@@ -206,8 +206,8 @@ These are mostly conference talks, for videos about learning Elm look at the [Le
 
 Tools and libraries to test your Elm applications
 
-* [Elm test](https://github.com/elm-explorations/test) ⭐ 240 | 🐛 94 | 🌐 Elm | 📅 2026-02-10 - Unit and fuzz tests
-* [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) ⭐ 94 | 🐛 46 | 🌐 Elm | 📅 2024-05-18 - Test complete Elm programs
+* [Elm test](https://github.com/elm-explorations/test) ⭐ 241 | 🐛 94 | 🌐 Elm | 📅 2026-02-11 - Unit and fuzz tests
+* [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) ⭐ 94 | 🐛 47 | 🌐 Elm | 📅 2024-05-18 - Test complete Elm programs
 * [Elm Spec](https://github.com/brian-watkins/elm-spec) ⭐ 33 | 🐛 16 | 🌐 Elm | 📅 2023-08-19 - Describe the behavior of Elm programs.
 
 **[:top: back to top](#table-of-contents)**
@@ -216,8 +216,8 @@ Tools and libraries to test your Elm applications
 
 ## Code generators
 
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 25,790 | 🐛 5,581 | 🌐 Java | 📅 2026-02-10 - Generate OpenApi types for Elm.
-* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,618 | 🐛 555 | 🌐 TypeScript | 📅 2025-10-27 - Generate JSON decoders and encoders from JSON
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 25,796 | 🐛 5,578 | 🌐 Java | 📅 2026-02-11 - Generate OpenApi types for Elm.
+* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,620 | 🐛 556 | 🌐 TypeScript | 📅 2025-10-27 - Generate JSON decoders and encoders from JSON
 * [elm-graphql](https://github.com/dillonkearns/elm-graphql) ⭐ 786 | 🐛 72 | 🌐 Elm | 📅 2025-06-23 - Generate GraphQl client code from GraphQL schemas
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) ⚠️ Archived - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
 * [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) ⭐ 143 | 🐛 18 | 🌐 Elm | 📅 2026-01-20 - Generate Elm code
@@ -261,7 +261,7 @@ You can find hundreds of high quality packages at:
 
 *Good starting point for a new Elm project.*
 
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) ⭐ 1,684 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-10 - Create Elm apps with no build configuration.
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) ⭐ 1,683 | 🐛 53 | 🌐 JavaScript | 📅 2026-02-10 - Create Elm apps with no build configuration.
 * [elm-live](https://github.com/wking-io/elm-live) ⭐ 1,067 | 🐛 53 | 🌐 JavaScript | 📅 2022-06-18 - A flexible dev server for Elm. Live reload included.
 * [Elm Batteries](https://github.com/cedricss/elm-batteries) ⭐ 119 | 🐛 1 | 🌐 Elm | 📅 2021-10-21 - A project template and generator for Elm, Parcel, Cypress and Netlify
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) ⭐ 113 | 🐛 25 | 🌐 Elm | 📅 2024-09-04 - Elm webpack 4 starter template.
@@ -297,7 +297,7 @@ You can find hundreds of high quality packages at:
 ## Static analysis
 
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) ⭐ 415 | 🐛 75 | 🌐 Elm | 📅 2023-04-19 - Linter for the Elm programming language.
-* [Elm Review](https://github.com/jfmengels/elm-review) ⭐ 279 | 🐛 17 | 🌐 Elm | 📅 2026-02-03 - Code reviewer for the Elm programming language.
+* [Elm Review](https://github.com/jfmengels/elm-review) ⭐ 278 | 🐛 17 | 🌐 Elm | 📅 2026-02-03 - Code reviewer for the Elm programming language.
 
 **[:top: back to top](#table-of-contents)**
 
@@ -338,7 +338,7 @@ You can find hundreds of high quality packages at:
 
 ## Compile and bundle
 
-* [elm-compiler](https://github.com/elm/compiler) ⭐ 7,748 | 🐛 337 | 🌐 Haskell | 📅 2025-12-11 - The official Elm compiler.
+* [elm-compiler](https://github.com/elm/compiler) ⭐ 7,749 | 🐛 337 | 🌐 Haskell | 📅 2025-12-11 - The official Elm compiler.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) ⭐ 534 | 🐛 53 | 🌐 JavaScript | 📅 2024-01-09 - Webpack loader Elm.
 * [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 215 | 🐛 16 | 🌐 TypeScript | 📅 2025-10-27 - Vite plugin for Elm.
 * [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
@@ -356,7 +356,7 @@ You can find hundreds of high quality packages at:
 *Useful tools related to Elm.*
 
 * [Elm Format](https://github.com/avh4/elm-format) ⭐ 1,328 | 🐛 229 | 🌐 Haskell | 📅 2025-06-19 - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Litvis](https://github.com/gicentre/litvis) ⭐ 403 | 🐛 18 | 🌐 TypeScript | 📅 2026-01-21 - Literate Visualization with Elm
+* [Litvis](https://github.com/gicentre/litvis) ⭐ 404 | 🐛 18 | 🌐 TypeScript | 📅 2026-01-21 - Literate Visualization with Elm
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) ⭐ 245 | 🐛 1 | 📅 2022-11-14 - JS type systems interportability.
 * [Elm JSON](https://github.com/zwilias/elm-json) ⭐ 183 | 🐛 22 | 🌐 Rust | 📅 2023-07-26 - Install, upgrade and uninstall Elm dependencies
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) ⭐ 152 | 🐛 7 | 🌐 JavaScript | 📅 2017-10-17 - Query for information about values in elm source files. Used by most editor plugins.
@@ -460,7 +460,7 @@ You can find hundreds of high quality packages at:
 
 ## Community and Support
 
-* [Companies using Elm](https://github.com/jah2488/elm-companies) ⭐ 491 | 🐛 1 | 🌐 Elm | 📅 2025-12-31 - A list of companies using Elm in production.
+* [Companies using Elm](https://github.com/jah2488/elm-companies) ⭐ 492 | 🐛 1 | 🌐 Elm | 📅 2025-12-31 - A list of companies using Elm in production.
 
 *Where to find help.*
 
@@ -490,11 +490,11 @@ You can find hundreds of high quality packages at:
 
 *Some projects influenced by Elm*
 
-* [Iced](https://github.com/hecrj/iced) ⭐ 29,430 | 🐛 398 | 🌐 Rust | 📅 2026-02-10 - A cross-platform GUI library for Rust, inspired by Elm
-* [Hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,219 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20 - A library that provide The Elm Architecture in JavaScript.
-* [Roc](https://github.com/roc-lang/roc) ⭐ 5,481 | 🐛 193 | 🌐 Zig | 📅 2026-02-11 - A language that targets WebAssembly and machine code inspired by Elm.
-* [Miso](https://github.com/dmjio/miso) ⭐ 2,366 | 🐛 22 | 🌐 Haskell | 📅 2026-02-11 - A library that provides The Elm Architecture in Haskell.
-* [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,133 | 🐛 17 | 🌐 Gleam | 📅 2026-02-07 - A library that provides The Elm Architecture in Gleam.
+* [Iced](https://github.com/hecrj/iced) ⭐ 29,443 | 🐛 401 | 🌐 Rust | 📅 2026-02-11 - A cross-platform GUI library for Rust, inspired by Elm
+* [Hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,220 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20 - A library that provide The Elm Architecture in JavaScript.
+* [Roc](https://github.com/roc-lang/roc) ⭐ 5,482 | 🐛 193 | 🌐 Zig | 📅 2026-02-12 - A language that targets WebAssembly and machine code inspired by Elm.
+* [Miso](https://github.com/dmjio/miso) ⭐ 2,365 | 🐛 22 | 🌐 Haskell | 📅 2026-02-12 - A library that provides The Elm Architecture in Haskell.
+* [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,135 | 🐛 17 | 🌐 Gleam | 📅 2026-02-07 - A library that provides The Elm Architecture in Gleam.
 * [Sauron](https://github.com/ivanceras/sauron) ⭐ 2,060 | 🐛 7 | 🌐 Rust | 📅 2025-01-27 - A library that provides The Elm Architecture in Rust targeting the web.
 * [Mobius](https://github.com/spotify/mobius) ⭐ 1,252 | 🐛 4 | 🌐 Java | 📅 2024-12-12 - Elm-like abstractions for android apps, created by Spotify.
 * [Fabulous](https://github.com/fsprojects/Fabulous) ⭐ 1,249 | 🐛 13 | 🌐 F# | 📅 2025-11-14 - F# Functional App Development, using declarative dynamic UI
