@@ -4,7 +4,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,819 | 🐛 80 | 📅 2026-03-09 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 446,124 | 🐛 83 | 📅 2026-03-09 [![Build Status](https://app.travis-ci.com/sporto/awesome-elm.svg?branch=master)](https://app.travis-ci.com/sporto/awesome-elm)
 
 A community driven list of useful Elm tutorials, libraries and software.
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
@@ -216,8 +216,8 @@ Tools and libraries to test your Elm applications
 
 ## Code generators
 
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 25,961 | 🐛 5,613 | 🌐 Java | 📅 2026-03-16 - Generate OpenApi types for Elm.
-* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,662 | 🐛 560 | 🌐 TypeScript | 📅 2025-10-27 - Generate JSON decoders and encoders from JSON
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 25,963 | 🐛 5,612 | 🌐 Java | 📅 2026-03-17 - Generate OpenApi types for Elm.
+* [Quicktype](https://github.com/quicktype/quicktype) ⭐ 13,661 | 🐛 560 | 🌐 TypeScript | 📅 2025-10-27 - Generate JSON decoders and encoders from JSON
 * [elm-graphql](https://github.com/dillonkearns/elm-graphql) ⭐ 785 | 🐛 39 | 🌐 Elm | 📅 2026-02-14 - Generate GraphQl client code from GraphQL schemas
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) ⚠️ Archived - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
 * [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) ⭐ 144 | 🐛 20 | 🌐 Elm | 📅 2026-01-20 - Generate Elm code
@@ -307,7 +307,7 @@ You can find hundreds of high quality packages at:
 
 * [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-* [elm-starter](https://github.com/lucamug/elm-starter) ⭐ 89 | 🐛 11 | 🌐 Elm | 📅 2022-12-11 - An experimental Elm-based bootstrapper that can also be plugged into already existing Elm applications.
+* [elm-starter](https://github.com/lucamug/elm-starter) ⭐ 90 | 🐛 11 | 🌐 Elm | 📅 2022-12-11 - An experimental Elm-based bootstrapper that can also be plugged into already existing Elm applications.
 
 **[:top: back to top](#table-of-contents)**
 
@@ -340,7 +340,7 @@ You can find hundreds of high quality packages at:
 
 * [elm-compiler](https://github.com/elm/compiler) ⭐ 7,754 | 🐛 337 | 🌐 Haskell | 📅 2025-12-11 - The official Elm compiler.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) ⭐ 533 | 🐛 52 | 🌐 JavaScript | 📅 2024-01-09 - Webpack loader Elm.
-* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 215 | 🐛 16 | 🌐 TypeScript | 📅 2025-10-27 - Vite plugin for Elm.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) ⭐ 216 | 🐛 16 | 🌐 TypeScript | 📅 2025-10-27 - Vite plugin for Elm.
 * [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
 
 ### Unmaintained
@@ -490,18 +490,18 @@ You can find hundreds of high quality packages at:
 
 *Some projects influenced by Elm*
 
-* [Iced](https://github.com/hecrj/iced) ⭐ 29,836 | 🐛 408 | 🌐 Rust | 📅 2026-03-14 - A cross-platform GUI library for Rust, inspired by Elm
+* [Iced](https://github.com/hecrj/iced) ⭐ 29,849 | 🐛 407 | 🌐 Rust | 📅 2026-03-16 - A cross-platform GUI library for Rust, inspired by Elm
 * [Hyperapp](https://github.com/jorgebucaran/hyperapp) ⭐ 19,218 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-20 - A library that provide The Elm Architecture in JavaScript.
-* [Roc](https://github.com/roc-lang/roc) ⭐ 5,525 | 🐛 216 | 🌐 Zig | 📅 2026-03-16 - A language that targets WebAssembly and machine code inspired by Elm.
+* [Roc](https://github.com/roc-lang/roc) ⭐ 5,526 | 🐛 213 | 🌐 Zig | 📅 2026-03-17 - A language that targets WebAssembly and machine code inspired by Elm.
 * [Miso](https://github.com/dmjio/miso) ⭐ 2,374 | 🐛 16 | 🌐 Haskell | 📅 2026-03-15 - A library that provides The Elm Architecture in Haskell.
-* [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,195 | 🐛 19 | 🌐 Gleam | 📅 2026-03-12 - A library that provides The Elm Architecture in Gleam.
+* [Lustre](https://github.com/lustre-labs/lustre) ⭐ 2,196 | 🐛 21 | 🌐 Gleam | 📅 2026-03-12 - A library that provides The Elm Architecture in Gleam.
 * [Sauron](https://github.com/ivanceras/sauron) ⭐ 2,063 | 🐛 7 | 🌐 Rust | 📅 2025-01-27 - A library that provides The Elm Architecture in Rust targeting the web.
 * [Mobius](https://github.com/spotify/mobius) ⭐ 1,256 | 🐛 4 | 🌐 Java | 📅 2026-02-24 - Elm-like abstractions for android apps, created by Spotify.
 * [Fabulous](https://github.com/fsprojects/Fabulous) ⭐ 1,254 | 🐛 13 | 🌐 F# | 📅 2025-11-14 - F# Functional App Development, using declarative dynamic UI
 * [Elchemy](https://github.com/wende/elchemy) ⚠️ Archived - Write Elixir code using statically-typed Elm-like syntax
 * [Elmish](https://github.com/elmish/elmish) ⭐ 887 | 🐛 8 | 🌐 F# | 📅 2026-01-02 - Elm-like abstractions for F# apps
 * [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) ⭐ 600 | 🐛 45 | 🌐 JavaScript | 📅 2024-06-11 - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
-* [Flame](https://github.com/easafe/purescript-flame) ⭐ 316 | 🐛 5 | 🌐 PureScript | 📅 2026-01-25 - A library that provides The Elm Architecture in PureScript.
+* [Flame](https://github.com/easafe/purescript-flame) ⭐ 317 | 🐛 5 | 🌐 PureScript | 📅 2026-01-25 - A library that provides The Elm Architecture in PureScript.
 * [React-tea-cup](https://github.com/vankeisb/react-tea-cup) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-14 - A thin library that provides The Elm Architecture in react, used by IBM.
 * [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
 * [Indigo](https://indigoengine.io/) - Indigo is an Elm-inspired game engine for Scala.js.
